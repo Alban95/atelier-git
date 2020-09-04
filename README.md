@@ -7,9 +7,8 @@ L'atelier git ne fait sans SourceTree ni GitKraken, c'est une révision/découve
 Les termes utilisé dans nos petits soft sont les même sur les bouttons et font les même choses.
 
 # Quelque command de base
-```bash
-gitk  git log --pretty=oneline --graph --decorate --all
-```
+```gitk ``` ou ```git log --pretty=oneline --graph --decorate --all```
+
 ```
 git stash
 ```
@@ -45,8 +44,11 @@ Récupération et application de tout les commits remote en priorité, puis appl
 Copie d'un commit d'une branche par rapport à l'autres
 
 # Les branchs
-```git branch branch1```création de la branch en local
-```git checkout branch1```  - basculement sur la branch1
-```git push origin branch1```  - push de la nouvelle branche sur le remote
+```git branch branch1```
+création de la branch en local
+```git checkout branch1```  
+basculement sur la branch1
+```git push origin branch1```
+push de la nouvelle branche sur le remote
 
 
