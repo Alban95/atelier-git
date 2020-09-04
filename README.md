@@ -44,11 +44,11 @@ Récupération et application de tout les commits remote en priorité, puis appl
 Copie d'un commit d'une branche par rapport à l'autres
 
 # Les branchs
-```git branch branch1```
-création de la branch en local
-```git checkout branch1```  
-basculement sur la branch1
-```git push origin branch1```
+```git branch branch1```\
+création de la branch en local\
+```git checkout branch1```\  
+basculement sur la branch1\
+```git push origin branch1```\
 push de la nouvelle branche sur le remote
 
 
