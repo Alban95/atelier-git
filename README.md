@@ -2,13 +2,13 @@
 atelier-git 
 
 # Quelque command de base
-gitk  git log --pretty=oneline --graph --decorate --all
-git stash
-git stash pop
-git stash list
-git checkout [commit_id] -- [filename]
-git checkout .
-git reset
+gitk  git log --pretty=oneline --graph --decorate --all\
+git stash\
+git stash pop\
+git stash list\
+git checkout [commit_id] -- [filename]\
+git checkout .\
+git reset\
 
 # git commit -m "message de test"
 Commit avec message en local.
