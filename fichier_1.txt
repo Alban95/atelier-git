@@ -1,4 +1,6 @@
 plop
-toto2
-fichier modifié encore
+toto2 modifié
+fichier modifié encore 
 et encore une fois ...
+
+c'est fini
