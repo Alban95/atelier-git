@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Alban est nul !!
-=======
-tutu
->>>>>>> Stashed changes
+Alban est nul !! Mais tres nul :D
